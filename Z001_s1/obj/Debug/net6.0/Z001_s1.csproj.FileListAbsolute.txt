@@ -1,0 +1,15 @@
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\bin\Debug\net6.0\Z001_s1.exe
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\bin\Debug\net6.0\Z001_s1.deps.json
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\bin\Debug\net6.0\Z001_s1.runtimeconfig.json
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\bin\Debug\net6.0\Z001_s1.dll
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\bin\Debug\net6.0\Z001_s1.pdb
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\obj\Debug\net6.0\Z001_s1.csproj.AssemblyReference.cache
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\obj\Debug\net6.0\Z001_s1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\obj\Debug\net6.0\Z001_s1.AssemblyInfoInputs.cache
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\obj\Debug\net6.0\Z001_s1.AssemblyInfo.cs
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\obj\Debug\net6.0\Z001_s1.csproj.CoreCompileInputs.cache
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\obj\Debug\net6.0\Z001_s1.dll
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\obj\Debug\net6.0\refint\Z001_s1.dll
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\obj\Debug\net6.0\Z001_s1.pdb
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\obj\Debug\net6.0\Z001_s1.genruntimeconfig.cache
+C:\Users\интернет\Desktop\Less 1 prog\Z001_s1\obj\Debug\net6.0\ref\Z001_s1.dll
